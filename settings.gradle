@@ -1,0 +1,3 @@
+include ':audiowavelib'
+include ':app'
+rootProject.name = "AudioWaveMarkerDemo"
